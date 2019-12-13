@@ -16,7 +16,8 @@
       [dateClass]="dateClass"
       [beginDateSelected]="beginDateSelected"
       (selectedChange)="_dateSelected($event)"
-      (_userSelection)="_userSelected()">
+      (_userSelection)="_userSelected()"
+      (activeDateChange)="activeDateChanged($event)">
   </sat-month-view>
 
   <sat-year-view

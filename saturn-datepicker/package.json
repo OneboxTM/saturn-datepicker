@@ -1,5 +1,5 @@
 {
-  "name": "saturn-datepicker",
+  "name": "saturn-datepicker-onebox",
   "version": "8.0.1",
   "repository": "https://github.com/SaturnTeam/saturn-datepicker",
   "keywords": ["angular", "material", "datepicker", "range datepicker"],
